@@ -1,8 +1,0 @@
-.
-./requirements.txt
-./logs
-./logs/iplink.txt
-./logs/iproute.txt
-./logs/find.txt
-./logs/df.txt
-./argecho.py

@@ -1,9 +1,0 @@
-Filesystem                                          Size   Used  Avail Capacity iused      ifree %iused  Mounted on
-/dev/disk1s1                                        500G    11G   312G     4%  488263 4880653897    0%   /
-devfs                                               198k   198k     0B   100%     670          0  100%   /dev
-/dev/disk1s2                                        500G   167G   312G    35% 1841408 4879300752    0%   /System/Volumes/Data
-/dev/disk1s5                                        500G   9.7G   312G     4%       9 4881142151    0%   /private/var/vm
-map auto_home                                         0B     0B     0B   100%       0          0  100%   /System/Volumes/Data/home
-/dev/disk1s4                                        500G   529M   312G     1%      50 4881142110    0%   /Volumes/Recovery
-/Users/robertlee/Downloads/Visual Studio Code.app   500G   132G   352G    28% 1349257 4879792903    0%   /private/var/folders/89/zsrk2wv555x6_m12xffd48700000gq/T/AppTranslocation/3F476BE9-08A5-4547-A3DC-59E85F42B3E7
-/dev/disk2s1                                        219M   195M    23M    90%     280 4294966999    0%   /Volumes/Linear 1.3.4
