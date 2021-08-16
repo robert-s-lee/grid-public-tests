@@ -12,7 +12,7 @@ for f in $(find . -name "argecho.py" -print); do
 done
 ```
 
-
+```bash
 grid run \
 --datastore_name cm-ds \
 --datastore_version 1 \
